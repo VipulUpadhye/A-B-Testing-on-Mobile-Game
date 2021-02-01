@@ -1,4 +1,4 @@
-# A-B-Testing-on-Mobile-Game
+# A/B-Testing-on-Mobile-Game
 A/B hypothesis testing on Cookie Cats mobile game.
 
 The Cookie Cats game has a gate at the 30th level of the game. However, the developers thought of repositioning it to level 40 and check the retention rates of the players after the repositioning. The game data consists of the retention rates after 1 day of installing and 7 days of installation of the game.
